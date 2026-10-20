@@ -1,0 +1,6 @@
+{
+  "name": "คลังปัญญา (KlangPanya) - แพลตฟอร์มแบ่งปันความรู้เพื่อการศึกษา",
+  "description": "แพลตฟอร์มรวบรวมและแบ่งปันความรู้ สื่อการเรียนการสอน สำหรับนักเรียน นักศึกษา และครูอาจารย์ พร้อมระบบค้นหา จัดการ และจัดเก็บรายการโปรด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
